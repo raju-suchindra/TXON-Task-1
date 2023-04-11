@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.nav-icon{
+    width: 25%;
+}
+.nav-ele{
+    font-size: 25px;
+    font-family: caveat;
+    
+}
+.bg-container{
+    background-image: url("https://1.bp.blogspot.com/-RysZHAPE2lU/Tz9AIorzUSI/AAAAAAAAByc/8HSGxv9PjO8/s1600/cool+background+designs+vbnvcn.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+.text-data{
+    color: skyblue;
+    margin: 10px;
+    padding: 10px;
+}
+.dom-head{
+    color: rgb(157, 233, 218);
+    text-decoration: underline;
+    font-family: bree serief;
+    font-style: bold;
+    font-size: 70px;
+}
+.dom-para{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 28px;
+    color: white;
+}
+.dom-btn{
+    border-radius: 80px  80px 80px 80px;
+    font-size: 20px;
+    color: white;
+    width: 180px;
+    height: 50px;
+}
+.domi-img{
+    width: 90%;
+    height: auto;
+    padding: 20px;
+}
